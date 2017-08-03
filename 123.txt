@@ -1,5 +1,6 @@
  this s devops session
 merging branches
  commit from other developer
+add modified after stash
 
 

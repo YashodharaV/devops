@@ -1,1 +1,9 @@
-git clone -b v0.1 https://github.com/YashodharaV/devops.git
+from flask import Flask
+app = Flask(__name__)
+
+@app.route("/")
+def main():
+    return "Welcome!"
+    
+    if __name__ == "__main__":
+    app.run()

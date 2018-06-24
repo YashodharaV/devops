@@ -3,6 +3,7 @@ merging branches
  commit from other developer
 add modified after stash
 making few changes to the file
+master branch merge
 
 
 
